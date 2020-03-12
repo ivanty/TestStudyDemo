@@ -6,7 +6,11 @@ package com.page1;
 * */
 
 public class demo1 {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
+   public static void main(String[] args) {
+        //常量,B为常量名称，变量
+
+        final double B=2.235;
+
+        System.out.println(B);
     }
 }
